@@ -1,4 +1,5 @@
 require 'yard'
+require 'active_support'
 
 module YARD::Handlers::Ruby::ActiveRecord
 end
